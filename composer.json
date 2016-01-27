@@ -1,0 +1,13 @@
+{
+  "name" : "Portifolio",
+  "description" : "Portifolio para marketing pessoal",
+  "authors" : [
+    {
+      "name" : "Sergio de Souza Tomas",
+      "email" : "sergiottomas@gmail.com"
+    }
+  ],
+  "require" : {
+    "php" : ">=5.2.8"
+  }
+}
