@@ -1,3 +1,3 @@
-# Portifolio
+# Portfolio
 
-Um Portifolio em construção... mais detalhes em breve.
+Um Portfolio em construção... mais detalhes em breve.
